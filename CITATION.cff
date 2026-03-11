@@ -1,13 +1,13 @@
-cff-version: 1.2.0
+﻿cff-version: 1.2.0
 message: "If you use this repository as a reference, please cite it."
 title: "Institutional Friction Toolkit (Reference)"
 type: software
 authors:
   - name: "Public Domain (CC0)"
 year: 2026
-url: "https://github.com/gsx750ss-dev/institutional-friction-toolkit"
+url: "https://github.com/lumina-30/institutional-friction-toolkit"
 license: "CC0-1.0"
-repository-code: "https://github.com/gsx750ss-dev/institutional-friction-toolkit"
+repository-code: "https://github.com/lumina-30/institutional-friction-toolkit"
 abstract: >
   Neutral reference toolkit describing institutional and operational friction
   mechanisms applicable to high-risk autonomous systems. Descriptive only.
@@ -18,3 +18,4 @@ keywords:
   - accountability
   - audit logging
   - governance
+

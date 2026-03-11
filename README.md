@@ -1,5 +1,5 @@
-# Institutional Friction Toolkit (Reference)
-Primary entry point: [Lumi30-Index](https://github.com/gsx750ss-dev/Lumi30-Index)
+﻿# Institutional Friction Toolkit (Reference)
+Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 ## Position within LUMINA-30
 
@@ -9,7 +9,7 @@ It is non-binding and descriptive.
 It does not mandate action, propose policy, or prescribe implementation.
 
 Hub (structural map):
-https://github.com/gsx750ss-dev/lumina-30-overview
+https://github.com/lumina-30/lumina-30-overview
 
 —
 
@@ -286,7 +286,7 @@ for high-impact AI system development and deployment.
 ### Related References
 
 - Overview  
-  https://github.com/gsx750ss-dev/lumina-30-overview
+  https://github.com/lumina-30/lumina-30-overview
 
 ---
 Structural context:
@@ -295,4 +295,5 @@ Structural context:
 ## License
 This material is released into the public domain under CC0.
 No author attribution is required.
+
 

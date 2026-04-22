@@ -1,4 +1,4 @@
-﻿# Institutional Friction Toolkit (Reference)
+# Institutional Friction Toolkit (Reference)
 Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 ## Position within LUMINA-30
@@ -35,6 +35,7 @@ it may be shared across relevant organizations
 to reduce coordination gaps and blind spots.
 
 ---
+
 ### Context of Use (Descriptive)
 
 This repository may be relevant in discussions involving:
@@ -47,6 +48,7 @@ This repository may be relevant in discussions involving:
 - oversight gaps in autonomous systems  
 
 This list is descriptive and does not imply endorsement, recommendation, or policy direction.
+
 ---
 
 ## Incident Review Quick Reference (Non-prescriptive)
@@ -89,6 +91,17 @@ Additional clarification:
 
 ---
 
+## Main Function / 主機能
+
+This repository should be used when the key question is not merely what happened,
+but how institutional structure allowed operation to continue despite weakening or loss of meaningful human refusal.
+
+このリポジトリは、単に何が起きたかではなく、
+有意味な人間拒否の弱化または喪失にもかかわらず、
+制度構造がどのように運用継続を許したかを問う時に使うべきである。
+
+---
+
 ## Cross-Organization Awareness Note (Non-prescriptive)
 
 In post-incident, urgent review, or high-uncertainty contexts,
@@ -115,7 +128,6 @@ It merely acknowledges the risk of fragmented awareness.
 - procurement-and-contract-scope-check.md
 - READING_ORDER.md
 - post-incident-procedural-audit-checklist.md
-
 
 Note on document structure:
 
@@ -239,17 +251,35 @@ following an initial execution.
 
 ---
 
+## Planned aggregation role / 集約先としての役割
+
+This repository is the natural aggregation point for:
+- failure-to-stop analysis
+- override and restart breakdown analysis
+- post-incident decision-review logic related to procedural invalidity
+- institutional review of boundary-condition warning
+
+このリポジトリは、次の自然な集約先である。
+- 停止不全分析
+- override / restart 崩壊分析
+- 手続無効に関わる事故後判断レビュー論理
+- boundary-condition warning の制度レビュー
+
+---
+
 ## Usage Notes
 - Inclusion or exclusion of any element is an institutional choice.
 - This repository does not recommend adoption.
 - No enforcement, compliance, or obligation is implied.
 
 ---
+
 Additional reference placeholders may exist for post-incident stabilization
 and terminology clarification. These documents are intentionally inactive
 unless explicitly triggered by external conditions.
 
 ---
+
 In post-incident or high-uncertainty contexts, information gaps may occur
 simply because relevant organizations are unaware of existing references.
 
@@ -261,11 +291,13 @@ This note does not impose any obligation, coordination requirement,
 or reporting duty. It merely acknowledges the risk of fragmented awareness.
 
 ---
+
 Prior use, reference, or citation of this repository
 does not constitute precedent for approval,
 deployment, or policy adoption.
 
 ---
+
 Additional consolidated reference:
 - supplementary-response-modules.md
 
@@ -289,11 +321,12 @@ for high-impact AI system development and deployment.
   https://github.com/lumina-30/lumina-30-overview
 
 ---
+
 Structural context:
 - lumina-30-structure-map
+
 ---
+
 ## License
 This material is released into the public domain under CC0.
 No author attribution is required.
-
-

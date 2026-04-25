@@ -1,31 +1,27 @@
 # Institutional Friction Toolkit (Reference)
-Primary entry point: [Lumi30-Index](https://github.com/lumina-30/Lumi30-Index)
 
 ## Position within LUMINA-30
 
-This repository exists within the LUMINA-30 civilizational boundary reference structure.
+Primary users / 主な対象者: incident investigators, auditors, oversight teams, and governance reviewers.  
+事故調査担当、監査担当、監督チーム、ガバナンスレビュー担当者向け。
 
-It is non-binding and descriptive.
-It does not mandate action, propose policy, or prescribe implementation.
+Use this repository when the issue is failure-to-stop, override breakdown, restart-control failure, procedural invalidity, or institutional delay.  
+停止不全、override崩壊、再起動統制不全、手続的無効、制度的遅延を分析する場合に使用。
 
-Hub (structural map):
-https://github.com/lumina-30/lumina-30-overview
+This repository is not the first incident intake form. Use incident-review first when facts still need to be collected.  
+これは事故受付フォームではない。事実収集が必要な場合は incident-review を先に使用。
 
-—
+- [Incident Review Hub / 事故レビュー主ハブ](https://github.com/lumina-30/lumina30-incident-review)  
+  Use this for initial incident review and boundary-check workflow.  
+  事故レビュー初動と境界判定ワークフローに使用。
 
-This material:
-- is not a recommendation.
-- does not provide safe-harbor or liability protection.
-- does not guarantee safety, legality, or ethical adequacy.
-- does not delegate refusal authority to AI systems.
+- [Stop Authority Reference / 停止権限参照](https://github.com/lumina-30/stop-authority-reference)  
+  Use this to clarify whether effective refusal or stop authority still existed.  
+  実効的な拒否権・停止権限が存在したかを確認する場合に使用。
 
-## Overview
-This repository provides a neutral reference toolkit describing institutional and operational friction mechanisms applicable to high-risk autonomous systems, particularly in post-incident accountability and audit contexts.
-
-It does not propose policies, regulations, ethical imperatives, or implementation requirements.
-It does not advocate adoption, prohibition, or intervention.
-
-The contents are intended solely as descriptive reference material for understanding how institutional processes may introduce delay, accountability fixation, and resistance to unchecked procedural acceleration.
+- [AI Accountability Reference / AI説明責任参照](https://github.com/lumina-30/ai-accountability-reference)  
+  Use this when findings must be translated into accountability or audit language.  
+  所見を説明責任・監査文言へ変換する場合に使用。
 
 ---
 
@@ -315,15 +311,15 @@ for high-impact AI system development and deployment.
 
 ---
 
-### Related References
+### Related References / 関連参照
 
-- Overview  
-  https://github.com/lumina-30/lumina-30-overview
+- [LUMINA-30 Overview / LUMINA-30 概要](https://github.com/lumina-30/lumina-30-overview)  
+  Use this for the overall conceptual map before reading operational friction examples.  
+  制度摩擦の例を読む前に、全体の概念配置を確認するために使用。
 
----
-
-Structural context:
-- lumina-30-structure-map
+- [LUMINA-30 Structure Map / LUMINA-30 構造マップ](https://github.com/lumina-30/lumina-30-structure-map)  
+  Use this for repository-layer relationships and navigation.  
+  repo層の関係と導線を確認するために使用。
 
 ---
 

@@ -9,6 +9,16 @@ It establishes conditions under which approval is considered valid.
 
 AI outputs must not be used as the sole or primary rationale for approval.
 
+## Misreading Prevention Note / 誤読防止注記
+
+This gate is not a certification system, deployment approval regime, or legal compliance judgment.
+
+It is a final check that a named human decision-maker can still provide independent written reasoning and could have refused continuation before irreversible impact.
+
+本ゲートは、認証制度、展開承認制度、法令適合判断ではない。
+
+これは、特定可能な人間の意思決定者が独立した記述理由を示し、不可逆的影響の前に継続を拒否できたかを確認するための最終チェックである。
+
 ---
 
 ## 1. Human Judgment Record (Mandatory)

@@ -56,6 +56,33 @@ Who made it, when, and on what grounds?
 - Is responsibility diffuse (“everyone ｜ no one”) by design?
 - Did institutional structure separate decision authority from responsibility assumption?
 
+
+### 9) Boundary Responsibility Assignment ｜ 境界責任の割当
+- Who was responsible for designing friction before irreversibility?
+- Who was responsible for operating that friction in practice?
+- Who was responsible for preserving evidence before affected humans lost voice, position, or re-entry capacity?
+- Who was responsible for verifying and correcting the friction mechanism?
+
+### 10) Symmetric Friction ｜ 対称摩擦
+- Did friction depend only on one actor's voluntary restraint?
+- Was friction embedded in a market, institutional, sectoral, procurement, audit, or governance layer?
+- Would an actor preserving refusal be competitively disadvantaged by actors bypassing friction?
+
+### 11) Anti-Bypass Review ｜ 迂回防止レビュー
+- Could responsibility be bypassed through restructuring, outsourcing, acceleration, technical opacity, entity replacement, or responsibility diffusion?
+- Did the operational function continue while responsibility appeared to reset?
+- Was the friction formal only, or practically non-bypassable?
+
+### 12) Evidence Before Voice Loss ｜ 声を失う前の証拠保存
+- Were affected humans likely to lose voice, position, evidence access, or re-entry capacity after the event?
+- Were records preserved before that loss occurred?
+- Does the review avoid treating later silence as consent, recovery, or procedural validity?
+
+### 13) Correction Owner ｜ 是正責任主体
+- If the boundary condition failed, who had responsibility to suspend, redesign, correct, or reopen review?
+- Was that responsibility assigned before irreversibility or only after the fact?
+- Is the correction path reviewable by an external or independent body?
+
 ---
 
 ## Closing Note (Scope) ｜ 終了注記（範囲）

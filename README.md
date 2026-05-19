@@ -5,7 +5,7 @@
 Primary users ｜ 主な対象者: incident investigators, auditors, oversight teams, and governance reviewers.  
 事故調査担当、監査担当、監督チーム、ガバナンスレビュー担当者向け。
 
-Use this repository when the issue is failure-to-stop, override breakdown, restart-control failure, procedural invalidity, or institutional delay.  
+This repository is useful when the issue is failure-to-stop, override breakdown, restart-control failure, procedural invalidity, or institutional delay.  
 停止不全、override崩壊、再起動統制不全、手続的無効、制度的遅延を分析する場合に使用。
 
 This repository is not the first incident intake form. Use incident-review first when facts still need to be collected.  
@@ -20,7 +20,7 @@ This repository is not the first incident intake form. Use incident-review first
   実効的な拒否権・停止権限が存在したかを確認する場合に使用。
 
 - [AI Accountability Reference ｜ AI説明責任参照](https://github.com/lumina-30/ai-accountability-reference)  
-  Use this when findings must be translated into accountability or audit language.  
+  Use this when findings need translation into accountability or audit language.  
   所見を説明責任・監査文言へ変換する場合に使用。
 
 ---
@@ -94,18 +94,18 @@ Additional clarification:
 - This repository does not evaluate technical safety methods.
 - It does not propose enforcement mechanisms.
 - It does not assess capability thresholds or technological limits.
-- It does not predict timelines or singularity scenarios.
+- It does not predict timelines or irreversible-transition scenarios.
 
 ---
 
 ## Main Function ｜ 主機能
 
-This repository should be used when the key question is not merely what happened,
+This repository is useful when the key question is not merely what happened,
 but how institutional structure allowed operation to continue despite weakening or loss of meaningful human refusal.
 
 このリポジトリは、単に何が起きたかではなく、
 有意味な人間拒否の弱化または喪失にもかかわらず、
-制度構造がどのように運用継続を許したかを問う時に使うべきである。
+制度構造がどのように運用継続を許したかを問う時に有用である。
 
 ---
 
@@ -194,7 +194,7 @@ They do not constitute recommendations, requirements, or obligations.
    Preservation of review records in a form resistant to post-hoc modification or deletion.
 
 4. Mandatory recording of minority dissent  
-   Required documentation of dissenting or opposing views, regardless of final outcome.
+   Reviewable documentation of dissenting or opposing views, regardless of final outcome.
 
 5. Individual responsibility attribution  
    Identification of specific responsible signatories, preventing diffuse collective accountability.

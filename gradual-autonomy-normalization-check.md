@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Gradual Autonomy Normalization Check (Reference) ｜ 段階的自律性正常化チェック（参照）
 
 This document does not propose prohibition, regulation, or intervention.

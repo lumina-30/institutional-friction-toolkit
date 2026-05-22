@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Automated Development Loop – Procedural Invalidity Rule ｜ 自動開発ループ — 手続的無効ルール
 
 This rule applies to AI systems involved in iterative self-improvement,

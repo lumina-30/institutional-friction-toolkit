@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Audit Log Structural Requirements ｜ 監査ログ構造要件
 (High-Impact AI Systems)
 

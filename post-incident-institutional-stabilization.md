@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Post-Incident Institutional Stabilization (Reference) ｜ 事後制度安定化（参照）
 
 ## Purpose ｜ 目的

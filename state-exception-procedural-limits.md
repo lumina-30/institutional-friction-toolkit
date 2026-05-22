@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # State-Level Exception – Procedural Limitation Framework ｜ 国家例外 — 手続的制限フレームワーク
 
 This framework applies when AI systems are deployed

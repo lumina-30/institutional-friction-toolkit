@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Institutional Friction Toolkit (Reference)
 
 ## Position within LUMINA-30

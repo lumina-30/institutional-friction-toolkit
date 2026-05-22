@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Final Approval Gate Template ｜ 最終承認ゲート・テンプレート
 (Release or Go–No-Go Human Judgment Confirmation)
 

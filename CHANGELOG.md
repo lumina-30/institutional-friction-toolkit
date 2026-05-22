@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Changelog ｜ 変更履歴
 
 All structural additions are recorded to preserve transparency of evolution.

@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Reading Order (Reference) ｜ 読書順（参照）
 
 This repository is a neutral reference toolkit.

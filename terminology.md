@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Terminology Clarification (Reference) ｜ 用語明確化（参照）
 
 ## Usage Condition ｜ 使用条件

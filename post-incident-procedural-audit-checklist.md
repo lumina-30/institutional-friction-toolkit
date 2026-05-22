@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Post-Incident Procedural Audit Checklist (Non-prescriptive) ｜ 事後手続監査チェックリスト（非規範）
 
 This document is descriptive and non-prescriptive.

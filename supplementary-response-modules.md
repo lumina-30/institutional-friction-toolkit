@@ -1,3 +1,4 @@
+<!-- L30_LANG_LOCK: EN_JP_PAIRED -->
 # Supplementary Response Modules (Post-Incident) ｜ 補助対応モジュール（事後）
 
 These modules are structured references for post-incident procedural clarification,

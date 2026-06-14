@@ -95,7 +95,23 @@
     .note { color: var(--muted); font-size: .96rem; }
     footer { border-top: 1px solid var(--line); margin-top: 2rem; padding-top: 1rem; color: var(--muted); }
     [id] { scroll-margin-top: 5rem; }
-  </style>
+  
+
+
+    .place-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: .45em;
+      margin: .45rem 0 1rem;
+      padding: .38rem .72rem;
+      border-radius: 999px;
+      border: 1px solid var(--line, var(--border, currentColor));
+      background: var(--soft, var(--panel, Canvas));
+      color: var(--text, CanvasText);
+      font-weight: 800;
+      font-size: .98rem;
+    }
+</style>
 </head>
 <body>
 <div class="topbar"><div class="topbar-inner">
@@ -110,6 +126,7 @@
   <header class="hero">
     <div class="kicker">停止不全分析レイヤー</div>
     <h1>制度摩擦ツールキット</h1>
+      <div class="place-badge" aria-label="現在地">🧱 制度摩擦工房</div>
     <p class="lead">停止不全、override崩壊、再起動統制不全、手続的無効、制度的遅延を分析するための参照ツールキットです。事故受付の最初の入口ではありません。</p>
   </header>
 

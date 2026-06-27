@@ -292,9 +292,9 @@ This repository is the natural aggregation point for:
 
 ---
 
-Additional reference placeholders may exist for post-incident stabilization
-and terminology clarification. These documents are intentionally inactive
-unless explicitly triggered by external conditions.
+Additional conditional reference materials may exist for post-incident stabilization
+and terminology clarification. These documents are retained for use only when
+relevant external conditions make them necessary.
 
 ---
 

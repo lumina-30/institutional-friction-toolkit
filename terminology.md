@@ -8,13 +8,13 @@ terminological ambiguity, or semantic drift
 when such issues are externally observed.
 
 It does not prescribe definitions, enforce usage,
-or require active maintenance.
+or require active management.
 
 If no material confusion or conflicting terminology is observed,
 no action, update, or reference is required.
 
-No individual maintainer is expected to actively operate,
-expand, or manage this document.
+No active operation, expansion, or management is expected
+unless material confusion or conflicting terminology is externally observed.
 
 ---
 

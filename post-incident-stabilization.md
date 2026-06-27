@@ -3,7 +3,7 @@
 
 ## Activation Condition ｜ 起動条件
 
-This document is intentionally inactive by default.
+This document is a conditional reference by default.
 
 It is intended to be populated, referenced, or activated only under
 one or more of the following conditions:
@@ -12,10 +12,9 @@ one or more of the following conditions:
 - Institutional, regulatory, or review bodies explicitly request
   post-incident stabilization references.
 
-If none of these conditions are met, this document remains intentionally dormant.
+If none of these conditions are met, this document should remain unused as an operational reference.
 
-No individual maintainer is expected to actively operate, update,
-or curate this document outside the conditions stated above.
+No active operation, update, or curation is expected outside the conditions stated above.
 
 ---
 
